@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 _learn_ocaml_add_f()
 {
   local cmd
